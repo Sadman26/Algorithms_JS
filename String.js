@@ -1,3 +1,3 @@
-let text = "We are Bangladeshi";
-let xx1 = text.substring(7, 13);
+let text = "I am Bangladeshi";
+let xx1 = text.substring(5, 11);
 console.log(xx1);
