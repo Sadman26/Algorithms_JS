@@ -1,7 +1,7 @@
 # Algorithms by JavaScripts
 
-## 1. [Binary Search]
+## 1. Binary Search
 
-## 2. [Bubble Sort]
+## 2. Bubble Sort
 
-## 3.[Linear Search]
+## 3.Linear Search
