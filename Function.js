@@ -1,6 +1,6 @@
 //Normal Function
 function getsum(x, y) {
-    return x + y;
+    return getsum(x,y+1);
 }
 console.log(getsum(1, 2));
 
