@@ -2,7 +2,7 @@ class Animal {
     constructor(name) {
         this.name = name
     }
-    show() {
+    shows() {
         console.log("This is a ", this.name)
     }
 }
