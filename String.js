@@ -1,3 +1,12 @@
 let text = "I am deshi";
-let xx1 = text.substring(5, 11);
-console.log(xx1);
+let text = "Sadman Sakib Mahee"
+console.log(text.replace('Mahee', 'BOSS'))
+console.log(text.toUpperCase());
+console.log(text.toLowerCase());
+console.log(text.split(' '));
+console.log(text.charAt(0));
+console.log(text.charCodeAt(0));
+console.log(text.codePointAt(0));
+console.log(text.endsWith('e'));
+console.log(text.search(0));
+console.log(text.includes('S', 0));
