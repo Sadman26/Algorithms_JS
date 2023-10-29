@@ -1,3 +1,4 @@
+// bubble sort
 let arr = [11, 4, 7, 21, 3, 4, 7, 88, 99, 1, 123];
 let n = arr.length;
 for (let index = 0; index < n - 1; index++) {
