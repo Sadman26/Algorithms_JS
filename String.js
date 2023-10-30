@@ -1,6 +1,6 @@
 let text = "I am deshi";
 let text = "Sadman Sakib Mahee"
-console.log(text.replace('Mahee', 'BOSS'))
+console.log(text.replace('Shadman', 'BOSS'))
 console.log(text.toUpperCase());
 console.log(text.toLowerCase());
 console.log(text.split(' '));
