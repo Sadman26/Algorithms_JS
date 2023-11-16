@@ -1,4 +1,4 @@
-# Algorithms by JavaScripts
+# Algorithms by JavaScript
 
 ## 1. Binary Search
 
