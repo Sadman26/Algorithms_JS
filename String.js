@@ -1,4 +1,4 @@
-let text = "I am deshi";
+let text = "I am ";
 let text = "Sadman Sakib Mahee"
 console.log(text.replace('Shadman', 'BOSS'))
 console.log(text.toUpperCase());
