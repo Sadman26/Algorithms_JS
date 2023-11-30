@@ -25,7 +25,7 @@ int main()
         stk2 = stk;
         while (!stk2.empty())
         {
-            cout << stk2.top() << " " << endl;
+            cout << stk2.top() << "" << endl;
             stk2.pop();
         }
     }
